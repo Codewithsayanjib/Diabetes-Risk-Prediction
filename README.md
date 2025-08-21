@@ -1,7 +1,7 @@
 # 🩺 Diabetes Prediction using Machine Learning  
 
 This project applies various machine learning models to predict whether a patient has diabetes based on medical diagnostic measurements.  
-It uses the **PIMA Indians Diabetes Dataset** and evaluates multiple models with preprocessing, feature scaling, and visualization techniques.  
+It uses the **PIMA Indians Diabetes Dataset** (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) and evaluates multiple models with preprocessing, feature scaling, and visualization techniques.  
 
 ---
 ---
